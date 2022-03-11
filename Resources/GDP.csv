@@ -1,0 +1,769 @@
+SDG_IND,Indicator,LOCATION,Country,TIME,Time,Value,Flag Codes,Flags
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CHL,Chile,2015,2015,4.87531,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CHL,Chile,2016,2016,5.34201,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CHL,Chile,2017,2017,5.41966,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CHL,Chile,2018,2018,5.43317,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),IND,India,2015,2015,3.28573,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),IND,India,2016,2016,3.45098,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MWI,Malawi,2015,2015,5.60866,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MWI,Malawi,2016,2016,4.74857,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MWI,Malawi,2017,2017,4.03133,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MWI,Malawi,2018,2018,3.38194,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MWI,Malawi,2019,2019,3.71132,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MWI,Malawi,2020,2020,2.90762,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TGO,Togo,2015,2015,5.1086,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TGO,Togo,2016,2016,3.68649,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TGO,Togo,2017,2017,3.76053,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TGO,Togo,2018,2018,4.04394,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TGO,Togo,2019,2019,4.96938,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,Portugal,2015,2015,4.88554,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,Portugal,2017,2017,5.01561,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PRT,Portugal,2018,2018,4.67516,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SMR,San Marino,2017,2017,3.36997,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SMR,San Marino,2018,2018,3.55516,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SMR,San Marino,2019,2019,3.3797,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PSE,Palestine,2015,2015,4.66322,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PSE,Palestine,2016,2016,4.98296,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PSE,Palestine,2017,2017,4.72154,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PSE,Palestine,2018,2018,5.31887,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BRB,Barbados,2015,2015,5.38292,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BRB,Barbados,2016,2016,4.70732,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BRB,Barbados,2017,2017,4.36638,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BRB,Barbados,2018,2018,5.42886,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BRB,Barbados,2019,2019,3.20399,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BRB,Barbados,2020,2020,4.29516,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MUS,Mauritius,2015,2015,4.88667,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MUS,Mauritius,2016,2016,5.0136,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MUS,Mauritius,2017,2017,5.02313,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MUS,Mauritius,2018,2018,4.83459,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MUS,Mauritius,2019,2019,4.7193,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MUS,Mauritius,2020,2020,4.608,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CMR,Cameroon,2015,2015,2.76805,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CMR,Cameroon,2016,2016,2.65423,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CMR,Cameroon,2017,2017,3.15482,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CMR,Cameroon,2018,2018,3.1312,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CMR,Cameroon,2019,2019,3.1005,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BTN,Bhutan,2015,2015,7.5901,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BTN,Bhutan,2016,2016,6.99333,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BTN,Bhutan,2017,2017,7.22574,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BTN,Bhutan,2018,2018,6.85084,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,United Kingdom of Great Britain and Northern Ireland,2015,2015,5.55305,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,United Kingdom of Great Britain and Northern Ireland,2016,2016,5.41894,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,United Kingdom of Great Britain and Northern Ireland,2017,2017,5.44418,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GBR,United Kingdom of Great Britain and Northern Ireland,2018,2018,5.2389,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GNB,Guinea-Bissau,2015,2015,2.3,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GNB,Guinea-Bissau,2016,2016,2.3,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GNB,Guinea-Bissau,2017,2017,2.2,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GNB,Guinea-Bissau,2018,2018,2.13787,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GNB,Guinea-Bissau,2019,2019,2.94782,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DEU,Germany,2015,2015,4.85515,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DEU,Germany,2016,2016,4.83923,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DEU,Germany,2017,2017,4.88274,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DEU,Germany,2018,2018,4.99274,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LVA,Latvia,2015,2015,5.28494,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LVA,Latvia,2016,2016,4.65953,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LVA,Latvia,2017,2017,4.3703,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LVA,Latvia,2018,2018,4.24517,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SLE,Sierra Leone,2015,2015,3.05729,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SLE,Sierra Leone,2016,2016,3.06023,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SLE,Sierra Leone,2017,2017,4.63577,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SLE,Sierra Leone,2018,2018,6.98963,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SLE,Sierra Leone,2019,2019,7.36543,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SLE,Sierra Leone,2020,2020,9.26147,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TCA,Turks and Caicos Islands,2015,2015,3.09325,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TCA,Turks and Caicos Islands,2016,2016,3.06549,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TCA,Turks and Caicos Islands,2017,2017,2.97729,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TCA,Turks and Caicos Islands,2018,2018,2.74377,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TCA,Turks and Caicos Islands,2019,2019,3.4884,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BEL,Belgium,2015,2015,6.45157,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BEL,Belgium,2016,2016,6.46173,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BEL,Belgium,2017,2017,6.42534,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BEL,Belgium,2018,2018,6.37664,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VEN,Venezuela (Bolivarian Republic of),2015,2015,1.93018,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VEN,Venezuela (Bolivarian Republic of),2016,2016,1.19023,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VEN,Venezuela (Bolivarian Republic of),2017,2017,1.34408,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LTU,Lithuania,2015,2015,4.22719,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LTU,Lithuania,2016,2016,4.00431,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LTU,Lithuania,2017,2017,3.8122,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LTU,Lithuania,2018,2018,3.89496,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),EGY,Egypt,2015,2015,3.93085,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ZWE,Zimbabwe,2015,2015,5.81279,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ZWE,Zimbabwe,2016,2016,5.47262,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ZWE,Zimbabwe,2017,2017,5.38106,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ZWE,Zimbabwe,2018,2018,3.58728,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TZA,United Republic of Tanzania,2015,2015,4.19487,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TZA,United Republic of Tanzania,2016,2016,4.10197,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TZA,United Republic of Tanzania,2017,2017,4.43051,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TZA,United Republic of Tanzania,2018,2018,3.69644,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TZA,United Republic of Tanzania,2019,2019,3.53498,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TZA,United Republic of Tanzania,2020,2020,3.10434,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),COM,Comoros,2015,2015,2.54506,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CAF,Central African Republic,2015,2015,1.91023,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CAF,Central African Republic,2016,2016,1.75409,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CAF,Central African Republic,2017,2017,1.75365,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CAF,Central African Republic,2018,2018,1.56588,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CAF,Central African Republic,2019,2019,1.76871,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BLZ,Belize,2015,2015,6.87015,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BLZ,Belize,2016,2016,7.29365,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BLZ,Belize,2017,2017,7.45028,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BLZ,Belize,2018,2018,7.47227,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BLZ,Belize,2019,2019,7.13839,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BLZ,Belize,2020,2020,7.94096,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NAM,Namibia,2015,2015,9.9137,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NAM,Namibia,2016,2016,10.65203,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NAM,Namibia,2017,2017,9.75998,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NAM,Namibia,2018,2018,8.98805,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NAM,Namibia,2019,2019,9.48041,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NAM,Namibia,2020,2020,9.40959,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VAT,Holy See,2015,2015,,a,Category not applicable
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VAT,Holy See,2016,2016,,a,Category not applicable
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VAT,Holy See,2017,2017,,a,Category not applicable
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VAT,Holy See,2018,2018,,a,Category not applicable
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VAT,Holy See,2019,2019,,a,Category not applicable
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VAT,Holy See,2020,2020,,a,Category not applicable
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VAT,Holy See,2021,2021,,a,Category not applicable
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,Sweden,2015,2015,7.4439,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,Sweden,2016,2016,7.61862,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,Sweden,2017,2017,7.56883,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SWE,Sweden,2018,2018,7.64084,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BWA,Botswana,2015,2015,7.80652,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BWA,Botswana,2016,2016,7.97482,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BWA,Botswana,2017,2017,7.1,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BWA,Botswana,2018,2018,6.72133,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BWA,Botswana,2019,2019,6.91437,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MCO,Monaco,2016,2016,1.37093,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MCO,Monaco,2017,2017,1.45793,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MCO,Monaco,2019,2019,1.15266,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SLB,Solomon Islands,2015,2015,10.1349,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PRY,Paraguay,2015,2015,3.33815,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PRY,Paraguay,2017,2017,3.08969,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PRY,Paraguay,2018,2018,3.2832,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PRY,Paraguay,2019,2019,3.46971,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KWT,Kuwait,2015,2015,4.77148,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KWT,Kuwait,2016,2016,5.84771,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KWT,Kuwait,2017,2017,6.36549,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KWT,Kuwait,2018,2018,6.38917,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KWT,Kuwait,2019,2019,6.49243,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KWT,Kuwait,2020,2020,6.55126,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SEN,Senegal,2015,2015,5.45638,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SEN,Senegal,2016,2016,5.11309,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SEN,Senegal,2017,2017,4.62497,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SEN,Senegal,2018,2018,4.85822,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SEN,Senegal,2019,2019,5.2872,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TTO,Trinidad and Tobago,2015,2015,3.37328,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TTO,Trinidad and Tobago,2016,2016,3.97192,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TTO,Trinidad and Tobago,2017,2017,3.56127,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TTO,Trinidad and Tobago,2018,2018,3.28624,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TTO,Trinidad and Tobago,2019,2019,3.56124,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CRI,Costa Rica,2015,2015,6.8735,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CRI,Costa Rica,2016,2016,6.89396,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CRI,Costa Rica,2017,2017,7.06981,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CRI,Costa Rica,2018,2018,6.77907,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CRI,Costa Rica,2019,2019,6.80879,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CRI,Costa Rica,2020,2020,6.74626,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ISL,Iceland,2015,2015,7.45797,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ISL,Iceland,2016,2016,7.4322,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ISL,Iceland,2017,2017,7.58386,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ISL,Iceland,2018,2018,7.57406,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DNK,Denmark,2017,2017,7.75244,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ALB,Albania,2015,2015,3.43797,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ALB,Albania,2016,2016,3.96209,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ALB,Albania,2017,2017,3.61172,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ALB,Albania,2019,2019,3.94576,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LBR,Liberia,2015,2015,2.17083,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LBR,Liberia,2016,2016,2.14813,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LBR,Liberia,2017,2017,2.76128,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LBR,Liberia,2018,2018,2.58412,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LBR,Liberia,2019,2019,2.27039,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LBR,Liberia,2020,2020,2.30929,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DMA,Dominica,2015,2015,3.40858,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DMA,Dominica,2016,2016,5.12972,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DMA,Dominica,2017,2017,4.76675,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DMA,Dominica,2018,2018,5.57155,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DMA,Dominica,2019,2019,5.57161,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DMA,Dominica,2020,2020,4.99813,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NOR,Norway,2015,2015,7.56933,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NOR,Norway,2016,2016,8.03055,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NOR,Norway,2017,2017,7.91198,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NOR,Norway,2018,2018,7.64411,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),THA,Thailand,2015,2015,3.75967,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),THA,Thailand,2016,2016,3.63752,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),THA,Thailand,2017,2017,3.35573,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),THA,Thailand,2018,2018,3.05677,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),THA,Thailand,2019,2019,2.96898,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),EST,Estonia,2015,2015,5.10685,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),EST,Estonia,2016,2016,5.11446,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),EST,Estonia,2017,2017,4.9563,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),EST,Estonia,2018,2018,5.23887,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VCT,Saint Vincent and the Grenadines,2016,2016,5.7334,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VCT,Saint Vincent and the Grenadines,2017,2017,5.73196,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VCT,Saint Vincent and the Grenadines,2018,2018,5.69378,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TCD,Chad,2015,2015,2.4,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TCD,Chad,2016,2016,2.3,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TCD,Chad,2017,2017,2.45482,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TCD,Chad,2018,2018,2.25948,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TCD,Chad,2019,2019,2.37246,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BHR,Bahrain,2015,2015,2.67454,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BHR,Bahrain,2017,2017,2.32452,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),JAM,Jamaica,2015,2015,5.45521,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),JAM,Jamaica,2016,2016,5.31461,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),JAM,Jamaica,2017,2017,5.26017,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),JAM,Jamaica,2018,2018,5.41381,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),JAM,Jamaica,2019,2019,5.16364,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),JAM,Jamaica,2020,2020,5.40338,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CHE,Switzerland,2015,2015,4.93845,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CHE,Switzerland,2016,2016,4.92646,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CHE,Switzerland,2017,2017,4.95157,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CHE,Switzerland,2018,2018,4.86094,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GMB,Gambia,2015,2015,2.16003,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GMB,Gambia,2016,2016,2.02443,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GMB,Gambia,2017,2017,2.45919,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GMB,Gambia,2018,2018,2.36544,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GMB,Gambia,2019,2019,2.8753,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BEN,Benin,2015,2015,3.17298,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BEN,Benin,2016,2016,2.8991,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BEN,Benin,2017,2017,3.53559,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BEN,Benin,2018,2018,2.93397,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BEN,Benin,2019,2019,2.9652,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BDI,Burundi,2015,2015,6.37054,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BDI,Burundi,2016,2016,4.692,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BDI,Burundi,2017,2017,4.76202,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BDI,Burundi,2018,2018,5.07865,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GTM,Guatemala,2015,2015,3.03033,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GTM,Guatemala,2016,2016,2.94474,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GTM,Guatemala,2017,2017,2.9501,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GTM,Guatemala,2018,2018,3.13705,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GTM,Guatemala,2019,2019,3.19928,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GTM,Guatemala,2020,2020,3.29972,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MNG,Mongolia,2015,2015,4.17699,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MNG,Mongolia,2016,2016,5.18061,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MNG,Mongolia,2017,2017,4.08859,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MNG,Mongolia,2018,2018,6.17302,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MNG,Mongolia,2019,2019,4.94089,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GRD,Grenada,2015,2015,4.23861,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GRD,Grenada,2017,2017,3.1738,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GRD,Grenada,2018,2018,3.55255,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KGZ,Kyrgyzstan,2015,2015,5.98551,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KGZ,Kyrgyzstan,2016,2016,6.58615,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KGZ,Kyrgyzstan,2017,2017,6.02619,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KGZ,Kyrgyzstan,2018,2018,5.55267,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KGZ,Kyrgyzstan,2019,2019,5.36675,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),OMN,Oman,2017,2017,5.84019,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),OMN,Oman,2018,2018,5.20723,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),OMN,Oman,2019,2019,5.41321,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ABW,Aruba,2015,2015,5.88827,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ABW,Aruba,2016,2016,5.49135,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AUS,Australia,2015,2015,5.31127,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AUS,Australia,2016,2016,5.27678,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AUS,Australia,2017,2017,5.1279,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AUS,Australia,2018,2018,5.10789,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DOM,Dominican Republic,2015,2015,3.81624,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DOM,Dominican Republic,2016,2016,3.8505,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DOM,Dominican Republic,2017,2017,3.92027,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DOM,Dominican Republic,2018,2018,3.92849,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DOM,Dominican Republic,2019,2019,4.04277,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),UZB,Uzbekistan,2015,2015,5.78638,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),UZB,Uzbekistan,2016,2016,5.66773,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),UZB,Uzbekistan,2017,2017,5.28134,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),UZB,Uzbekistan,2018,2018,5.9,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),UZB,Uzbekistan,2019,2019,7.00186,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),UZB,Uzbekistan,2020,2020,5.11241,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),RUS,Russian Federation,2015,2015,3.83403,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),RUS,Russian Federation,2016,2016,3.76044,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),RUS,Russian Federation,2017,2017,4.68991,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),RUS,Russian Federation,2018,2018,4.6782,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AND,Andorra,2015,2015,3.28035,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AND,Andorra,2016,2016,3.23707,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AND,Andorra,2017,2017,3.21709,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AND,Andorra,2018,2018,3.24672,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AND,Andorra,2019,2019,3.15061,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),FIN,Finland,2015,2015,7.03208,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),FIN,Finland,2016,2016,6.85153,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),FIN,Finland,2017,2017,6.36311,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),FIN,Finland,2018,2018,6.2693,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NER,Niger,2015,2015,4.4859,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NER,Niger,2016,2016,2.97096,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NER,Niger,2017,2017,2.57716,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NER,Niger,2018,2018,3.44698,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NER,Niger,2019,2019,3.52317,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MLI,Mali,2015,2015,3.80152,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MLI,Mali,2016,2016,3.09478,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MLI,Mali,2017,2017,3.78977,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MLI,Mali,2018,2018,3.88253,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MLI,Mali,2019,2019,3.43868,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KNA,Saint Kitts and Nevis,2015,2015,2.64346,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MEX,Mexico,2015,2015,5.22942,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MEX,Mexico,2016,2016,4.90682,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MEX,Mexico,2017,2017,4.51822,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MEX,Mexico,2018,2018,4.25443,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SVK,Slovakia,2015,2015,4.599,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SVK,Slovakia,2016,2016,3.91107,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SVK,Slovakia,2017,2017,3.94064,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SVK,Slovakia,2018,2018,3.97583,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BLR,Belarus,2015,2015,4.78752,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BLR,Belarus,2016,2016,4.94655,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BLR,Belarus,2017,2017,4.79499,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BLR,Belarus,2018,2018,5.38111,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BLR,Belarus,2019,2019,4.97948,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BLR,Belarus,2020,2020,4.95245,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CHN,China,2015,2015,3.82487,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CHN,China,2016,2016,3.79362,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CHN,China,2017,2017,3.66745,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CHN,China,2018,2018,3.54249,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),STP,Sao Tome and Principe,2015,2015,3.8646,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),STP,Sao Tome and Principe,2016,2016,5.17304,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),STP,Sao Tome and Principe,2017,2017,5.03637,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),STP,Sao Tome and Principe,2018,2018,5.23511,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),STP,Sao Tome and Principe,2019,2019,5.92155,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GUY,Guyana,2015,2015,3.8957,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GUY,Guyana,2016,2016,4.73775,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GUY,Guyana,2017,2017,4.66478,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GUY,Guyana,2018,2018,4.45058,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CPV,Cabo Verde,2015,2015,5.26691,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CPV,Cabo Verde,2016,2016,5.28879,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CPV,Cabo Verde,2017,2017,5.18175,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CPV,Cabo Verde,2018,2018,5.36885,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CPV,Cabo Verde,2019,2019,4.73346,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GHA,Ghana,2015,2015,4.61213,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GHA,Ghana,2016,2016,4.52884,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GHA,Ghana,2017,2017,3.62738,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GHA,Ghana,2018,2018,4.00413,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LKA,Sri Lanka,2015,2015,2.22875,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LKA,Sri Lanka,2016,2016,3.4492,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LKA,Sri Lanka,2017,2017,2.79925,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LKA,Sri Lanka,2018,2018,2.13539,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BRN,Brunei Darussalam,2016,2016,4.42541,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),COD,Democratic Republic of the Congo,2015,2015,2.17044,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),COD,Democratic Republic of the Congo,2016,2016,2.11869,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),COD,Democratic Republic of the Congo,2017,2017,1.45495,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GRC,Greece,2015,2015,3.66677,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GRC,Greece,2017,2017,3.47221,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GRC,Greece,2018,2018,3.59395,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MAC,"China, Macao Special Administrative Region",2015,2015,3.00165,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MAC,"China, Macao Special Administrative Region",2016,2016,3.09854,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MAC,"China, Macao Special Administrative Region",2017,2017,2.70558,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MAC,"China, Macao Special Administrative Region",2018,2018,2.72788,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MAC,"China, Macao Special Administrative Region",2019,2019,3.06146,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),FSM,Micronesia (Federated States of),2015,2015,12.40792,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),FSM,Micronesia (Federated States of),2016,2016,13.51266,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),FSM,Micronesia (Federated States of),2017,2017,12.41642,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),FSM,Micronesia (Federated States of),2018,2018,9.69705,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),UKR,Ukraine,2015,2015,5.74256,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),UKR,Ukraine,2016,2016,5.00978,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),UKR,Ukraine,2017,2017,5.41226,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),UKR,Ukraine,2018,2018,5.31948,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),UKR,Ukraine,2019,2019,5.43965,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PAN,Panama,2015,2015,2.83629,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PAN,Panama,2016,2016,2.84608,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PAN,Panama,2017,2017,2.88224,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PAN,Panama,2018,2018,2.88293,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PAN,Panama,2019,2019,3.12736,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SLV,El Salvador,2015,2015,3.90988,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SLV,El Salvador,2016,2016,3.82524,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SLV,El Salvador,2017,2017,3.72523,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SLV,El Salvador,2018,2018,3.60575,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SLV,El Salvador,2019,2019,3.38516,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ATG,Antigua and Barbuda,2016,2016,2.4308,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ATG,Antigua and Barbuda,2017,2017,2.44848,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ATG,Antigua and Barbuda,2018,2018,2.64408,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ATG,Antigua and Barbuda,2019,2019,2.82215,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ATG,Antigua and Barbuda,2020,2020,3.32162,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KEN,Kenya,2015,2015,5.27134,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KEN,Kenya,2016,2016,5.36267,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KEN,Kenya,2017,2017,5.36668,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KEN,Kenya,2018,2018,5.30625,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KEN,Kenya,2019,2019,4.97439,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KEN,Kenya,2020,2020,5.07997,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LBN,Lebanon,2015,2015,2.1,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LBN,Lebanon,2016,2016,2.12393,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LBN,Lebanon,2017,2017,2.13294,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LBN,Lebanon,2018,2018,2.52447,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LBN,Lebanon,2019,2019,2.59202,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VNM,Viet Nam,2015,2015,4.46576,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VNM,Viet Nam,2016,2016,4.34481,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VNM,Viet Nam,2017,2017,4.08554,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VNM,Viet Nam,2018,2018,4.16745,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VNM,Viet Nam,2019,2019,4.06197,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),QAT,Qatar,2017,2017,2.96746,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),QAT,Qatar,2019,2019,2.81229,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),QAT,Qatar,2020,2020,3.19033,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LCA,Saint Lucia,2015,2015,3.86773,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LCA,Saint Lucia,2016,2016,5.20828,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LCA,Saint Lucia,2017,2017,3.63348,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LCA,Saint Lucia,2018,2018,3.3318,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LCA,Saint Lucia,2019,2019,3.26488,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LCA,Saint Lucia,2020,2020,3.56905,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TJK,Tajikistan,2015,2015,4.96774,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TJK,Tajikistan,2016,2016,5.76368,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TJK,Tajikistan,2017,2017,5.83797,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TJK,Tajikistan,2018,2018,5.55836,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TJK,Tajikistan,2019,2019,5.7129,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AZE,Azerbaijan,2015,2015,2.95168,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AZE,Azerbaijan,2016,2016,2.90341,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AZE,Azerbaijan,2017,2017,2.47382,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AZE,Azerbaijan,2018,2018,2.45543,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AZE,Azerbaijan,2019,2019,2.68108,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),COG,Congo,2015,2015,3.28258,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),COG,Congo,2016,2016,5.20979,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),COG,Congo,2017,2017,4.44297,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),COG,Congo,2018,2018,3.00147,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),COG,Congo,2019,2019,3.898,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MLT,Malta,2015,2015,5.02398,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MLT,Malta,2016,2016,5.08446,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MLT,Malta,2017,2017,4.65163,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,Netherlands,2015,2015,5.34816,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,Netherlands,2016,2016,5.4796,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,Netherlands,2017,2017,5.1751,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NLD,Netherlands,2018,2018,5.35765,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,Spain,2015,2015,4.28657,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,Spain,2016,2016,4.22764,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,Spain,2017,2017,4.20778,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ESP,Spain,2018,2018,4.17816,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),HND,Honduras,2015,2015,6.41297,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),HND,Honduras,2016,2016,5.15962,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),HND,Honduras,2017,2017,4.93702,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),HND,Honduras,2018,2018,6.05647,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),HND,Honduras,2019,2019,4.91285,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BGR,Bulgaria,2017,2017,4.09102,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BRA,Brazil,2015,2015,6.24106,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BRA,Brazil,2016,2016,6.31404,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BRA,Brazil,2017,2017,6.32048,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BRA,Brazil,2018,2018,6.08851,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PER,Peru,2015,2015,3.96933,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PER,Peru,2016,2016,3.81317,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PER,Peru,2017,2017,3.93131,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PER,Peru,2018,2018,3.7143,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PER,Peru,2019,2019,3.81996,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PER,Peru,2020,2020,4.24668,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ARE,United Arab Emirates,2019,2019,3.1027,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TUN,Tunisia,2015,2015,6.596,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TUN,Tunisia,2016,2016,7.32435,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SSD,South Sudan,2015,2015,1.46556,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SSD,South Sudan,2016,2016,1.5439,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ARG,Argentina,2015,2015,5.77611,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ARG,Argentina,2016,2016,5.54549,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ARG,Argentina,2017,2017,5.45432,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ARG,Argentina,2018,2018,4.94552,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ARG,Argentina,2019,2019,4.80237,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KIR,Kiribati,2015,2015,9.86296,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KIR,Kiribati,2016,2016,10.09359,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KIR,Kiribati,2017,2017,10.86316,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KIR,Kiribati,2018,2018,11.96829,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KIR,Kiribati,2019,2019,12.39466,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),IRL,Ireland,2015,2015,3.75801,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),IRL,Ireland,2016,2016,3.73174,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),IRL,Ireland,2017,2017,3.46885,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),IRL,Ireland,2018,2018,3.38309,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CIV,Côte d'Ivoire,2015,2015,3.49416,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CIV,Côte d'Ivoire,2016,2016,3.97232,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CIV,Côte d'Ivoire,2017,2017,3.80348,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CIV,Côte d'Ivoire,2018,2018,3.23994,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CIV,Côte d'Ivoire,2019,2019,3.7004,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CZE,Czechia,2015,2015,5.75182,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CZE,Czechia,2016,2016,5.55373,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CZE,Czechia,2017,2017,3.80616,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CZE,Czechia,2018,2018,4.26692,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DJI,Djibouti,2015,2015,3.59024,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DJI,Djibouti,2016,2016,3.92439,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DJI,Djibouti,2017,2017,3.74856,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DJI,Djibouti,2018,2018,3.62774,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),POL,Poland,2015,2015,4.80994,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),POL,Poland,2016,2016,4.6334,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),POL,Poland,2017,2017,4.55846,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),POL,Poland,2018,2018,4.6158,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),IDN,Indonesia,2015,2015,3.5836,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),IDN,Indonesia,2016,2016,3.5,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),IDN,Indonesia,2017,2017,2.66998,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),IDN,Indonesia,2018,2018,3,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),IDN,Indonesia,2019,2019,2.84185,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MYS,Malaysia,2015,2015,4.89487,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MYS,Malaysia,2016,2016,4.75192,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MYS,Malaysia,2017,2017,4.67531,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MYS,Malaysia,2018,2018,4.4796,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MYS,Malaysia,2019,2019,4.16339,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MRT,Mauritania,2016,2016,1.94406,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MRT,Mauritania,2019,2019,1.89373,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MRT,Mauritania,2020,2020,1.88659,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BGD,Bangladesh,2016,2016,1.53554,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BGD,Bangladesh,2019,2019,1.32632,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KHM,Cambodia,2018,2018,2.16286,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SRB,Serbia,2015,2015,3.7864,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SRB,Serbia,2016,2016,3.6347,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SRB,Serbia,2017,2017,3.71016,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SRB,Serbia,2018,2018,3.58232,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SRB,Serbia,2019,2019,3.61922,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SWZ,Eswatini,2015,2015,5.35575,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SWZ,Eswatini,2016,2016,5.41467,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SWZ,Eswatini,2017,2017,6.13809,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SWZ,Eswatini,2018,2018,5.67916,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SWZ,Eswatini,2019,2019,5.64555,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SWZ,Eswatini,2020,2020,5.34234,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MOZ,Mozambique,2015,2015,6.01083,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MOZ,Mozambique,2016,2016,5.86504,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MOZ,Mozambique,2017,2017,5.50556,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MOZ,Mozambique,2018,2018,5.45219,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MOZ,Mozambique,2019,2019,6.22999,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SGP,Singapore,2015,2015,2.86309,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SGP,Singapore,2016,2016,2.87483,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SGP,Singapore,2017,2017,2.76826,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SGP,Singapore,2018,2018,2.64509,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SGP,Singapore,2019,2019,2.63197,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SGP,Singapore,2020,2020,2.50666,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),JOR,Jordan,2016,2016,3.45282,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),JOR,Jordan,2017,2017,3.22854,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),JOR,Jordan,2018,2018,2.98481,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),JOR,Jordan,2019,2019,2.98847,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KOR,Republic of Korea,2016,2016,4.3331,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KOR,Republic of Korea,2017,2017,4.32824,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KOR,Republic of Korea,2018,2018,4.45808,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AUT,Austria,2015,2015,5.45658,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AUT,Austria,2016,2016,5.47962,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AUT,Austria,2017,2017,5.37189,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AUT,Austria,2018,2018,5.22536,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),RWA,Rwanda,2015,2015,3.64916,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),RWA,Rwanda,2016,2016,3.43673,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),RWA,Rwanda,2017,2017,3.12646,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),RWA,Rwanda,2018,2018,3.07375,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),RWA,Rwanda,2019,2019,3.35546,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),RWA,Rwanda,2020,2020,3.40727,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ECU,Ecuador,2015,2015,4.9987,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ECU,Ecuador,2016,2016,4.36275,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ECU,Ecuador,2017,2017,4.61426,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ECU,Ecuador,2018,2018,4.62146,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ECU,Ecuador,2019,2019,4.22566,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ECU,Ecuador,2020,2020,4.13413,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AGO,Angola,2015,2015,3.4869,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AGO,Angola,2016,2016,2.75494,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AGO,Angola,2017,2017,2.46688,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AGO,Angola,2018,2018,2.0447,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AGO,Angola,2019,2019,1.82118,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CYP,Cyprus,2015,2015,6.32613,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CYP,Cyprus,2016,2016,6.14541,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),CYP,Cyprus,2017,2017,5.75417,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VUT,Vanuatu,2015,2015,5.60338,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VUT,Vanuatu,2017,2017,4.53353,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VUT,Vanuatu,2019,2019,1.78588,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VUT,Vanuatu,2020,2020,2.3125,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),IRN,Iran (Islamic Republic of),2015,2015,2.79739,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),IRN,Iran (Islamic Republic of),2016,2016,3.36576,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),IRN,Iran (Islamic Republic of),2017,2017,3.7904,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),IRN,Iran (Islamic Republic of),2018,2018,3.95536,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),IRN,Iran (Islamic Republic of),2019,2019,3.6632,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MDV,Maldives,2015,2015,3.88749,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MDV,Maldives,2016,2016,3.68701,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MDV,Maldives,2017,2017,3.88747,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MDV,Maldives,2018,2018,3.91249,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MDV,Maldives,2019,2019,4.12159,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NIC,Nicaragua,2015,2015,4.07843,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NIC,Nicaragua,2016,2016,4.08114,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NIC,Nicaragua,2017,2017,4.35769,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NIC,Nicaragua,2018,2018,3.56255,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NIC,Nicaragua,2019,2019,3.44283,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ZMB,Zambia,2015,2015,4.62433,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ZMB,Zambia,2016,2016,3.74792,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ZMB,Zambia,2017,2017,3.72964,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ZMB,Zambia,2018,2018,4.73974,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ZMB,Zambia,2019,2019,4.46518,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LUX,Luxembourg,2015,2015,3.9182,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LUX,Luxembourg,2017,2017,3.56959,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LUX,Luxembourg,2018,2018,3.66626,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),COL,Colombia,2015,2015,4.47039,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),COL,Colombia,2016,2016,4.47721,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),COL,Colombia,2017,2017,4.53551,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),COL,Colombia,2018,2018,4.4491,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),COL,Colombia,2019,2019,4.50622,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TON,Tonga,2018,2018,6.37291,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TON,Tonga,2019,2019,7.95963,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),FJI,Fiji,2015,2015,4.80932,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),FJI,Fiji,2016,2016,4.8359,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),FJI,Fiji,2017,2017,4.65119,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),FJI,Fiji,2018,2018,4.83571,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),FJI,Fiji,2019,2019,5.06788,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),HTI,Haiti,2015,2015,1.85401,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),HTI,Haiti,2016,2016,1.42275,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),HTI,Haiti,2017,2017,1.59119,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),HTI,Haiti,2018,2018,1.6821,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GEO,Georgia,2015,2015,3.16487,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GEO,Georgia,2016,2016,3.59387,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GEO,Georgia,2017,2017,3.57443,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GEO,Georgia,2018,2018,3.52106,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GEO,Georgia,2019,2019,3.80864,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GEO,Georgia,2020,2020,3.83913,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ZAF,South Africa,2015,2015,5.95619,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ZAF,South Africa,2016,2016,5.94285,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ZAF,South Africa,2017,2017,6.11306,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ZAF,South Africa,2018,2018,6.15899,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ZAF,South Africa,2019,2019,6.50505,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ZAF,South Africa,2020,2020,6.83613,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MMR,Myanmar,2015,2015,2.1,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MMR,Myanmar,2016,2016,1.9,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MMR,Myanmar,2017,2017,2.08768,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MMR,Myanmar,2018,2018,1.92289,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MMR,Myanmar,2019,2019,1.97421,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SVN,Slovenia,2015,2015,4.90953,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SVN,Slovenia,2016,2016,4.79267,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SVN,Slovenia,2017,2017,4.78078,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SVN,Slovenia,2018,2018,4.93604,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),HUN,Hungary,2015,2015,4.49899,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),HUN,Hungary,2016,2016,4.62049,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),HUN,Hungary,2017,2017,4.61973,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),HUN,Hungary,2018,2018,4.62731,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MDA,Republic of Moldova,2015,2015,5.80569,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MDA,Republic of Moldova,2016,2016,5.60845,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MDA,Republic of Moldova,2017,2017,5.61844,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MDA,Republic of Moldova,2018,2018,5.43973,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MDA,Republic of Moldova,2019,2019,6.10458,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),UGA,Uganda,2015,2015,2.33153,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),UGA,Uganda,2016,2016,2.14711,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),UGA,Uganda,2017,2017,2.26336,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),UGA,Uganda,2018,2018,2.13052,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),UGA,Uganda,2019,2019,2.64981,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),UGA,Uganda,2020,2020,3.01393,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PNG,Papua New Guinea,2017,2017,1.96493,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PNG,Papua New Guinea,2018,2018,1.87483,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KAZ,Kazakhstan,2015,2015,2.78858,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KAZ,Kazakhstan,2016,2016,2.9781,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KAZ,Kazakhstan,2017,2017,2.75082,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KAZ,Kazakhstan,2018,2018,2.61595,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),KAZ,Kazakhstan,2019,2019,2.85697,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),COK,Cook Islands,2015,2015,3.8559,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),COK,Cook Islands,2016,2016,4.35619,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),COK,Cook Islands,2017,2017,2.91693,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),COK,Cook Islands,2018,2018,4.01551,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),COK,Cook Islands,2019,2019,3.50426,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MDG,Madagascar,2015,2015,2.21012,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MDG,Madagascar,2016,2016,2.68719,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MDG,Madagascar,2017,2017,2.83642,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MDG,Madagascar,2018,2018,2.87452,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MDG,Madagascar,2019,2019,2.9449,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AIA,Anguilla,2015,2015,2.97964,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AIA,Anguilla,2016,2016,3.1711,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AIA,Anguilla,2017,2017,3.6454,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AIA,Anguilla,2018,2018,3.62799,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AFG,Afghanistan,2015,2015,3.2558,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AFG,Afghanistan,2016,2016,3.51198,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AFG,Afghanistan,2017,2017,3.37331,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AFG,Afghanistan,2018,2018,3.19979,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),AFG,Afghanistan,2019,2019,3.21378,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LSO,Lesotho,2015,2015,9,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LSO,Lesotho,2016,2016,7.76075,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LSO,Lesotho,2017,2017,8.15689,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LSO,Lesotho,2018,2018,7.28536,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LSO,Lesotho,2019,2019,7.80015,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),LSO,Lesotho,2020,2020,7.37501,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ISR,Israel,2015,2015,5.86125,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ISR,Israel,2016,2016,5.86327,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ISR,Israel,2017,2017,6.10273,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ISR,Israel,2018,2018,6.1649,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),WSM,Samoa,2015,2015,4.85773,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),WSM,Samoa,2016,2016,4.16222,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),WSM,Samoa,2017,2017,4.18316,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),WSM,Samoa,2018,2018,4.53215,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),WSM,Samoa,2019,2019,4.70625,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),WSM,Samoa,2020,2020,4.80916,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),HKG,"China, Hong Kong Special Administrative Region",2015,2015,3.26212,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),HKG,"China, Hong Kong Special Administrative Region",2016,2016,3.29265,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),HKG,"China, Hong Kong Special Administrative Region",2017,2017,3.3101,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),HKG,"China, Hong Kong Special Administrative Region",2018,2018,3.32652,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),HKG,"China, Hong Kong Special Administrative Region",2019,2019,3.8106,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),HKG,"China, Hong Kong Special Administrative Region",2020,2020,4.40634,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GAB,Gabon,2015,2015,2.9,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GAB,Gabon,2016,2016,2.77,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GAB,Gabon,2017,2017,3.32681,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GAB,Gabon,2018,2018,2.93346,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GAB,Gabon,2019,2019,2.76783,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TLS,Timor-Leste,2015,2015,8.44515,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TLS,Timor-Leste,2016,2016,8.07843,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TLS,Timor-Leste,2017,2017,7.1061,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TLS,Timor-Leste,2018,2018,6.83091,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ETH,Ethiopia,2015,2015,4.73792,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ETH,Ethiopia,2016,2016,5.06151,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ETH,Ethiopia,2017,2017,5.64952,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ETH,Ethiopia,2018,2018,5.06868,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NZL,New Zealand,2015,2015,6.32506,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NZL,New Zealand,2016,2016,6.41179,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NZL,New Zealand,2017,2017,6.25974,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NZL,New Zealand,2018,2018,6.0485,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MHL,Marshall Islands,2019,2019,9.61129,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TUR,Turkey,2018,2018,4.2946,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NPL,Nepal,2015,2015,3.25902,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NPL,Nepal,2016,2016,3.90321,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NPL,Nepal,2017,2017,4.76722,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),NPL,Nepal,2018,2018,4.43445,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BMU,Bermuda,2015,2015,1.50164,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BMU,Bermuda,2017,2017,1.32496,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GIN,Guinea,2015,2015,2.51714,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GIN,Guinea,2016,2016,2.5445,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GIN,Guinea,2017,2017,2.32034,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GIN,Guinea,2018,2018,2.38432,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GIN,Guinea,2019,2019,1.84837,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GIN,Guinea,2020,2020,2.19947,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BFA,Burkina Faso,2015,2015,3.67009,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BFA,Burkina Faso,2017,2017,5.62847,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BFA,Burkina Faso,2018,2018,5.43056,‡,UIS Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BFA,Burkina Faso,2019,2019,5.78548,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MSR,Montserrat,2018,2018,8.88188,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),MSR,Montserrat,2019,2019,9.07445,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VGB,British Virgin Islands,2015,2015,5.13479,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VGB,British Virgin Islands,2016,2016,3.79742,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VGB,British Virgin Islands,2017,2017,2.66543,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VGB,British Virgin Islands,2018,2018,2.69413,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),VGB,British Virgin Islands,2019,2019,2.91879,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PHL,Philippines,2015,2015,3.33,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PHL,Philippines,2016,2016,3.57,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PHL,Philippines,2017,2017,4.4,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PHL,Philippines,2018,2018,3.1331,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PHL,Philippines,2019,2019,3.23437,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SYC,Seychelles,2015,2015,4.2229,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SYC,Seychelles,2016,2016,4.42102,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SYC,Seychelles,2017,2017,3.67729,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SYC,Seychelles,2018,2018,4.49884,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SYC,Seychelles,2019,2019,3.91459,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),TKM,Turkmenistan,2019,2019,3.12065,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ARM,Armenia,2015,2015,2.80591,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ARM,Armenia,2016,2016,2.75812,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ARM,Armenia,2017,2017,2.70759,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ARM,Armenia,2018,2018,2.25587,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ARM,Armenia,2019,2019,2.56185,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ARM,Armenia,2020,2020,2.70476,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ROU,Romania,2015,2015,3.10963,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ROU,Romania,2016,2016,2.97989,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ROU,Romania,2017,2017,3.09539,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ROU,Romania,2018,2018,3.34475,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PAK,Pakistan,2015,2015,2.65002,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PAK,Pakistan,2016,2016,3.00292,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PAK,Pakistan,2017,2017,2.89952,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),PAK,Pakistan,2019,2019,2.50755,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,Italy,2015,2015,4.07363,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,Italy,2016,2016,3.81579,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,Italy,2017,2017,4.04494,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),ITA,Italy,2018,2018,4.25572,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),HRV,Croatia,2017,2017,3.90567,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),URY,Uruguay,2016,2016,4.38086,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),URY,Uruguay,2017,2017,4.48584,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),URY,Uruguay,2018,2018,4.6628,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),URY,Uruguay,2019,2019,4.68332,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),FRA,France,2017,2017,5.4516,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),FRA,France,2018,2018,5.41317,,
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DZA,Algeria,2016,2016,7.34436,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DZA,Algeria,2017,2017,6.50538,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DZA,Algeria,2018,2018,5.86635,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),DZA,Algeria,2019,2019,6.10036,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BHS,Bahamas,2015,2015,2.28832,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BHS,Bahamas,2016,2016,2.32517,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BHS,Bahamas,2017,2017,2.4185,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BHS,Bahamas,2018,2018,2.30952,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BHS,Bahamas,2019,2019,2.39893,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),BHS,Bahamas,2020,2020,2.51088,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),FRO,Faeroe Islands,2015,2015,7.71242,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),FRO,Faeroe Islands,2016,2016,7.71989,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),FRO,Faeroe Islands,2017,2017,8.23338,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GRL,Greenland,2015,2015,12.0046,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GRL,Greenland,2016,2016,11.08614,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GRL,Greenland,2017,2017,11.02856,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),GRL,Greenland,2018,2018,10.56019,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SUR,Suriname,2015,2015,5.92651,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SUR,Suriname,2016,2016,5.9803,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SUR,Suriname,2017,2017,6.10751,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SUR,Suriname,2018,2018,5.6886,+,National Estimation
+XGDP_FSGOV,Government expenditure on education as a percentage of GDP (%),SUR,Suriname,2019,2019,7.23706,+,National Estimation
