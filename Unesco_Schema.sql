@@ -16,5 +16,5 @@ CREATE TABLE gerd (
 CREATE TABLE rd (
   country VARCHAR PRIMARY KEY,
   year INT,
-  number_per_thousand Float
+  number_per_thousand TEXT
 );
