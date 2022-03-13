@@ -1,11 +1,17 @@
 -- Create Two Tables
+
+DROP TABLE rd;
+DROP TABLE edu;
+
 CREATE TABLE edu (
-  country VARCHAR PRIMARY KEY,
+  index INT PRIMARY KEY,	
+  country VARCHAR,
   sdg_ind VARCHAR,
   indicator VARCHAR,
   year INT,
   edu_percent Float
 );
+
 CREATE TABLE gerd (
   country VARCHAR PRIMARY KEY,
   gerd_ind VARCHAR,
