@@ -30,7 +30,7 @@ Do governments/Country's that invest more on education also invest more on Innov
 `os path generator`
 `scipy.stats`
 
-## Extract and Transform: 
+## Step 2 and 3: Extract and Transform: 
 
 From http://data.uis.unesco.org we extracted the three datasets and used pandas libraries to represent the data differently from the sources to clean it and transforming it into a proper storage relational database structure for the purpose of querying and analysis. We created three types of graphs to visualize our data:
 
@@ -39,7 +39,7 @@ From http://data.uis.unesco.org we extracted the three datasets and used pandas 
 * Bar graph to plot the top countries that employed researchers and related skills per thousand inhabitants in 2015.
 
 
-## Load
+## Step 4: Load
 
 To stablish connection to our local PostgresSQL database and load the data, we installed psycopg2 as a dependency.  Created an ER diagram and sql schema to create our tables and used pandas to populate the database.
 
