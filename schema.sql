@@ -2,6 +2,7 @@
 
 DROP TABLE rd;
 DROP TABLE edu;
+Drop TABLE gerd;
 
 CREATE TABLE edu (
   index INT PRIMARY KEY,	
@@ -13,7 +14,8 @@ CREATE TABLE edu (
 );
 
 CREATE TABLE gerd (
-  country VARCHAR PRIMARY KEY,
+  index INT PRIMARY KEY,
+  country VARCHAR,
   gerd_ind VARCHAR,
   indicator VARCHAR,
   year INT,
@@ -21,7 +23,8 @@ CREATE TABLE gerd (
 );
 
 CREATE TABLE rd (
-  country VARCHAR PRIMARY KEY,
+  index INT PRIMARY KEY,	
+  country VARCHAR,
   year INT,
   number_per_thousand TEXT
 
