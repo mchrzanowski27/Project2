@@ -2,7 +2,7 @@
 
 # ETL
 
-![ETL](Images/ETL.png
+![ETL](Images/ETL.png)
 
 ## Context
 ETL, stands for extract, transform, and load. Is the process data engineers use to extract data from different sources, transform the data into a usable and trusted resource, and load that data into the systems end-users can access and use downstream to solve business problems.  We used `pandas` to extract and transform de data to later load it to a `postgres database`.
