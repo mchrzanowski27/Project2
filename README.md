@@ -46,5 +46,6 @@ Country to the employment of researchers and related skills per thousand inhabit
 
 To stablish connection to our local PostgresSQL database and load the data, we installed psycopg2 as a dependency.  Created an ER diagram and sql schema to create our tables and used pandas to populate the database.
 
-
+![select all](Images/select_query.png)
+![join](Images/join_query.png)
 
