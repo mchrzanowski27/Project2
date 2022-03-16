@@ -1,116 +1,116 @@
-,country,year,number_per_thousand
-2,Argentina,2015,5.5933
-5,Armenia,2015,3.77812
-8,Austria,2015,28.16698
-10,Azerbaijan,2015,4.75049
-13,Belarus,2015,5.14577
-14,Belgium,2015,22.70253
-16,Bosnia and Herzegovina,2015,2.26521
-17,Brazil,2015,6.30509
-20,Brunei Darussalam,2015,8.84565
-24,Burundi,2015,0.32951
-26,Chad,2015,2.56871
-29,Chile,2015,6.81318
-32,China,2015,9.3526
-35,"China, Hong Kong Special Administrative Region",2015,6.36
-38,Colombia,2015,0.13184
-41,Congo,2015,2.62533
-45,Côte d'Ivoire,2015,9.13254
-48,Croatia,2015,4.60493
-51,Cuba,2015,6.58332
-54,Cyprus,2015,18.66858
-55,Czechia,2015,0.11002
-58,Democratic Republic of the Congo,2015,29.46367
-61,Denmark,2015,14.60176
-64,Ecuador,2015,7.82799
-67,Egypt,2015,0.40702
-70,El Salvador,2015,14.41201
-73,Estonia,2015,2.19093
-77,Faeroe Islands,2015,28.23883
-80,Finland,2015,20.70434
-83,France,2015,9.50578
-86,Gambia,2015,5.52519
-89,Georgia,2015,21.46999
-91,Germany,2015,0.6176
-92,Ghana,2015,20.19636
-94,Greece,2015,7.30046
-97,Guam,2015,0.29402
-100,Guatemala,2015,0.05657
-103,Guinea,2015,0.07561
-104,Honduras,2015,12.26069
-107,Hungary,2015,28.44823
-110,Iceland,2015,9.59346
-114,Indonesia,2015,6.21635
-116,Iran (Islamic Republic of),2015,0.83368
-119,Iraq,2015,21.80337
-121,Ireland,2015,10.85426
-124,Israel,2015,15.29182
-127,Italy,2015,4.94055
-130,Jamaica,2015,17.69136
-133,Japan,2015,5.11196
-136,Jordan,2015,2.70873
-139,Kazakhstan,2015,1.49547
-142,Kenya,2015,2.51357
-145,Kuwait,2015,1.7895
-148,Kyrgyzstan,2015,0
-149,Lao People's Democratic Republic,2015,11.07624
-152,Latvia,2015,0.18323
-155,Libya,2015,14.64932
-158,Lithuania,2015,23.1224
-161,Luxembourg,2015,9.02502
-164,Malawi,2015,9.35414
-167,Malaysia,2015,0.26712
-169,Mali,2015,11.70799
-172,Malta,2015,2.01367
-176,Mauritius,2015,1.44816
-178,Mexico,2015,0.63989
-180,Monaco,2015,1.95405
-183,Mongolia,2015,8.72225
-186,Montenegro,2015,4.49675
-189,Morocco,2015,0.366
-193,Nepal,2015,20.67302
-196,Netherlands,2015,21.79529
-198,New Zealand,2015,9.90695
-200,Nigeria,2015,4.4644
-203,North Macedonia,2015,27.65736
-206,Norway,2015,2.20618
-209,Oman,2015,2.2638
-211,Pakistan,2015,0.82077
-213,Palestine,2015,0.62749
-216,Panama,2015,0.45655
-217,Papua New Guinea,2015,1.65472
-220,Paraguay,2015,0.32611
-223,Peru,2015,0.58164
-224,Philippines,2015,8.61144
-227,Poland,2015,19.78161
-230,Portugal,2015,4.89778
-233,Puerto Rico,2015,2.41773
-234,Qatar,2015,22.60635
-237,Republic of Korea,2015,3.82213
-240,Republic of Moldova,2015,4.74058
-243,Romania,2015,9.78903
-246,Russian Federation,2015,5.95113
-250,Saudi Arabia,2015,4.41136
-251,Senegal,2015,7.49526
-254,Serbia,2015,4.64919
-257,Seychelles,2015,14.47532
-260,Singapore,2015,11.23473
-263,Slovakia,2015,20.33497
-266,Slovenia,2015,3.45462
-269,South Africa,2015,14.55586
-272,Spain,2015,5.26992
-275,Sri Lanka,2015,0.25722..
-278,Sudan (pre-secession),2015,26.82306
-280,Sweden,2015,25.76983
-282,Switzerland,2015,9.07207
-284,Syrian Arab Republic,2015,1.62029
-287,Tajikistan,2015,4.10278
-290,Thailand,2015,1.52674
-293,Togo,2015,3.77168
-296,Tunisia,2015,7.53128
-299,Turkey,2015,3.19542
-302,Uganda,2015,5.11131
-305,Ukraine,2015,2.1641
-308,United Arab Emirates,2015,19.78304
-310,Uruguay,2015,2.56995
-313,Venezuela (Bolivarian Republic of),2015,3.00835
+country,year,number_per_thousand
+Argentina,2015,5.5933
+Armenia,2015,3.77812
+Austria,2015,28.16698
+Azerbaijan,2015,4.75049
+Belarus,2015,5.14577
+Belgium,2015,22.70253
+Bosnia and Herzegovina,2015,2.26521
+Brazil,2015,6.30509
+Brunei Darussalam,2015,8.84565
+Burundi,2015,0.32951
+Chad,2015,2.56871
+Chile,2015,6.81318
+China,2015,9.3526
+"China, Hong Kong Special Administrative Region",2015,6.36
+Colombia,2015,0.13184
+Congo,2015,2.62533
+Côte d'Ivoire,2015,9.13254
+Croatia,2015,4.60493
+Cuba,2015,6.58332
+Cyprus,2015,18.66858
+Czechia,2015,0.11002
+Democratic Republic of the Congo,2015,29.46367
+Denmark,2015,14.60176
+Ecuador,2015,7.82799
+Egypt,2015,0.40702
+El Salvador,2015,14.41201
+Estonia,2015,2.19093
+Faeroe Islands,2015,28.23883
+Finland,2015,20.70434
+France,2015,9.50578
+Gambia,2015,5.52519
+Georgia,2015,21.46999
+Germany,2015,0.6176
+Ghana,2015,20.19636
+Greece,2015,7.30046
+Guam,2015,0.29402
+Guatemala,2015,0.05657
+Guinea,2015,0.07561
+Honduras,2015,12.26069
+Hungary,2015,28.44823
+Iceland,2015,9.59346
+Indonesia,2015,6.21635
+Iran (Islamic Republic of),2015,0.83368
+Iraq,2015,21.80337
+Ireland,2015,10.85426
+Israel,2015,15.29182
+Italy,2015,4.94055
+Jamaica,2015,17.69136
+Japan,2015,5.11196
+Jordan,2015,2.70873
+Kazakhstan,2015,1.49547
+Kenya,2015,2.51357
+Kuwait,2015,1.7895
+Kyrgyzstan,2015,0
+Lao People's Democratic Republic,2015,11.07624
+Latvia,2015,0.18323
+Libya,2015,14.64932
+Lithuania,2015,23.1224
+Luxembourg,2015,9.02502
+Malawi,2015,9.35414
+Malaysia,2015,0.26712
+Mali,2015,11.70799
+Malta,2015,2.01367
+Mauritius,2015,1.44816
+Mexico,2015,0.63989
+Monaco,2015,1.95405
+Mongolia,2015,8.72225
+Montenegro,2015,4.49675
+Morocco,2015,0.366
+Nepal,2015,20.67302
+Netherlands,2015,21.79529
+New Zealand,2015,9.90695
+Nigeria,2015,4.4644
+North Macedonia,2015,27.65736
+Norway,2015,2.20618
+Oman,2015,2.2638
+Pakistan,2015,0.82077
+Palestine,2015,0.62749
+Panama,2015,0.45655
+Papua New Guinea,2015,1.65472
+Paraguay,2015,0.32611
+Peru,2015,0.58164
+Philippines,2015,8.61144
+Poland,2015,19.78161
+Portugal,2015,4.89778
+Puerto Rico,2015,2.41773
+Qatar,2015,22.60635
+Republic of Korea,2015,3.82213
+Republic of Moldova,2015,4.74058
+Romania,2015,9.78903
+Russian Federation,2015,5.95113
+Saudi Arabia,2015,4.41136
+Senegal,2015,7.49526
+Serbia,2015,4.64919
+Seychelles,2015,14.47532
+Singapore,2015,11.23473
+Slovakia,2015,20.33497
+Slovenia,2015,3.45462
+South Africa,2015,14.55586
+Spain,2015,5.26992
+Sri Lanka,2015,0.25722..
+Sudan (pre-secession),2015,26.82306
+Sweden,2015,25.76983
+Switzerland,2015,9.07207
+Syrian Arab Republic,2015,1.62029
+Tajikistan,2015,4.10278
+Thailand,2015,1.52674
+Togo,2015,3.77168
+Tunisia,2015,7.53128
+Turkey,2015,3.19542
+Uganda,2015,5.11131
+Ukraine,2015,2.1641
+United Arab Emirates,2015,19.78304
+Uruguay,2015,2.56995
+Venezuela (Bolivarian Republic of),2015,3.00835
